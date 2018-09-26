@@ -10,31 +10,28 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Game Programming",
+    "C#, .NET, Mono",
+    "Unity"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Certificate III Information, Digital Media and technology"
+  institution = "Academy of Interactive Entertainment"
+  year = 2016
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Advanced Diploma Professional Game Development, Programming"
+  institution = "Academy of Interactive Entertainment"
+  year = 2017
  
 +++
 
-# Biography
+# About Me
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a games programmer specializing in C# and Unity, and a graduate of the Academy of Interactive Entertainment in Adelaide, South Australia.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Many of my game projects utilize many advanced features such as custom shaders, multiplayer networking, and editor scripting. I am also well-versed in Unity's 2D and UI features.
+
+I have experience in C++, creating AI simulations, networked games, and using OpenGL to create a custom graphics engine.
