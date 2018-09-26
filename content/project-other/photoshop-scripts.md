@@ -1,17 +1,17 @@
 +++
-title = "Alistairs Chest"
-date = 2017-04-26T22:14:47+09:30
+title = "Photoshop Scripts"
+date = 2017-09-26T22:57:39+09:30
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["other"]
 
 # Project summary to display on homepage.
-summary = "A dark night and a brilliant flash leads a young boy into a strange and wondrous world. Armed with a huge bat and mysterious magic abilities, set out and unlock the marvels of Alistair's Chest!"
+summary = "Scripts I have written for Photoshop to aid development of my projects."
 
 # Optional image to display on homepage.
-image_preview = "alistairs-chest-cover.png"
+image_preview = "photoshop-scripts-cover.PNG"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
