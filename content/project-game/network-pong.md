@@ -29,3 +29,13 @@ image = ""
 caption = ""
 
 +++
+
+A networked multiplayer mashup of pong and brick break, using RakNet, OpenGL, and C++
+
+[View Source Code on GitHub](https://github.com/jackv24/NetworkingAIE)
+
+This game runs with two clients connected to a server. The server is authoritative, and the clients implement dead-reckoning by only sending data when important events occur, such as a ball bouncing, a block breaking, etc. The game is simulated on the clients and server for smooth gameplay, but the only data the clients themselves can send is key presses.
+
+Data is only sent when these events happen, making efficient use of bandwidth, and gameplay is accurately synced across clients.
+
+{{< figure src="img/pong.gif" title="One of two clients running the game. Setup is one server, two clients." >}}
