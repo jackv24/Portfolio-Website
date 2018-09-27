@@ -28,4 +28,22 @@ highlight = true
 image = ""
 caption = ""
 
+[[gallery_item]]
+album = "Screenshots"
+image = "watch-face-img01.jpg"
+
+[[gallery_item]]
+album = "Screenshots"
+image = "watch-face-img02.jpg"
+
 +++
+
+Importance is a watchface that displays the most basic and important information in an easy to read manner. Includes time, date, battery bar and a Bluetooth disconnection indicator.
+
+[View Here](https://apps.getpebble.com/en_US/application/56cea301fd7a6b2c8a000016?section=watchfaces) | [View Source Code in Github](https://github.com/jackv24/Importance-Pebble-Watchface)
+
+![Watch face title image](/img/watch-face-title.png)
+
+# Images
+
+{{< gallery album="Screenshots" >}}

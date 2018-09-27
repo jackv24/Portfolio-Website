@@ -28,4 +28,22 @@ highlight = true
 image = ""
 caption = ""
 
+[[gallery_item]]
+album = "anim-export"
+image = "anim-export-sc01.png"
+
+[[gallery_item]]
+album = "anim-export"
+image = "anim-export-sc02.png"
+
 +++
+
+Scripts I have written for Photoshop to aid development of my projects.
+
+## Animation Exporter
+
+A script for exporting frames from multiple animations contained within one document, created as a tool to aid development of [Alistair's Chest](http://www.overgrowthstudio.com/).
+
+[Download & Instructions on GitHub](https://github.com/jackv24/PhotoshopAnimationExporter)
+
+{{< gallery album="anim-export" >}}

@@ -28,4 +28,30 @@ highlight = true
 image = ""
 caption = ""
 
+[[gallery_item]]
+album = "Screenshots"
+image = "space-dash-sc01.png"
+
+[[gallery_item]]
+album = "Screenshots"
+image = "space-dash-sc02.png"
+
+[[gallery_item]]
+album = "Screenshots"
+image = "space-dash-sc03.png"
+
+[[gallery_item]]
+album = "Screenshots"
+image = "space-dash-sc04.png"
+
 +++
+
+Space Dash is a space-themed endless runner, where collecting oxygen is needed to stay alive. This game was created over a six week period, as a student project.
+
+[View or Download on Itch.io](https://jackv24.itch.io/space-dash?secret=9K2kj0oJM5BtWHg90k0LmtIxEtY) | [Get it on Google Play](https://play.google.com/store/apps/details?id=com.t2.spacedash) | [View Source Code on Github](https://github.com/jackv24/Space-Dash)
+
+{{< youtube Rp3QZlUwmO0 >}}
+
+# Screenshots
+
+{{< gallery album="Screenshots" >}}

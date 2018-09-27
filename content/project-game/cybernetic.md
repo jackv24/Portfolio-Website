@@ -28,4 +28,58 @@ highlight = true
 image = ""
 caption = ""
 
+[[gallery_item]]
+album = "Screenshots"
+image = "cybernetic-sc01.png"
+
+[[gallery_item]]
+album = "Screenshots"
+image = "cybernetic-sc02.png"
+
+[[gallery_item]]
+album = "Screenshots"
+image = "cybernetic-sc03.png"
+
+[[gallery_item]]
+album = "Screenshots"
+image = "cybernetic-sc04.png"
+
+[[gallery_item]]
+album = "Screenshots"
+image = "cybernetic-sc05.png"
+
+[[gallery_item]]
+album = "Screenshots"
+image = "cybernetic-sc06.png"
+
+[[gallery_item]]
+album = "Screenshots"
+image = "cybernetic-sc07.png"
+
+[[gallery_item]]
+album = "Screenshots"
+image = "cybernetic-sc08.png"
+
+[[gallery_item]]
+album = "Screenshots"
+image = "cybernetic-sc09.png"
+
+[[gallery_item]]
+album = "Screenshots"
+image = "cybernetic-sc10.png"
+
+[[gallery_item]]
+album = "Screenshots"
+image = "cybernetic-sc11.png"
+
 +++
+
+A randomly generated, 3D tower defence game.
+
+[View or Download on Itch.io](https://jackv24.itch.io/cybernetic) | [View Source Code on Github](https://github.com/jackv24/Cybernetic)
+
+{{< youtube Z28oTw43Tvg >}}
+
+# Screenshots
+
+{{< gallery album="Screenshots" >}}
