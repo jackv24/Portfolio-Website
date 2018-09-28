@@ -10,9 +10,9 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Game Programming",
     "C#, .NET, Mono",
-    "Unity"
+    "Unity",
+    "UI",
   ]
 
 # List your qualifications (such as academic degrees).

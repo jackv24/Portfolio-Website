@@ -1,0 +1,13 @@
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > li > a:hover,
+a:hover, a:focus
+{
+    color: #ff7300;
+}
+
+.navbar-default .navbar-nav > .active > a
+{
+
+    color: #0095eb;
+}
