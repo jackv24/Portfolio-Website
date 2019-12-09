@@ -235,14 +235,19 @@ enableGitInfo = true
     link = "//twitter.com/Jackv24v"
 
   [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "//au.linkedin.com/in/jack-vine-game-programmer"
+
+  [[params.social]]
     icon = "github"
     icon_pack = "fab"
     link = "//github.com/jackv24"
 
   [[params.social]]
-    icon = "linkedin"
+    icon = "gitlab"
     icon_pack = "fab"
-    link = "//au.linkedin.com/in/jack-vine-game-programmer"
+    link = "//gitlab.com/jackv24"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
